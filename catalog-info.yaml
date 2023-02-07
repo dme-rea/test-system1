@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-system1
-  title: Sample Service # optional, human readable component name
+  title: Silver Service # optional, human readable component name
   description: My first Backstage catalog item.
   annotations:
     github.com/project-slug: bs-roadie-test/test-system1
